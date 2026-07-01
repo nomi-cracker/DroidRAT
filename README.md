@@ -1,31 +1,40 @@
-🔥 DroidRAT Framework
+<div align="center">🔥 DROIDRAT FRAMEWORK 🔥
 
-Android Security Testing & Research Toolkit
+Android Security Research & Educational Toolkit
 
-"Python" (https://img.shields.io/badge/Python-3.x-blue)
-"Platform" (https://img.shields.io/badge/Platform-Linux%20%7C%20Android%20%7C%20Windows-green)
-"License" (https://img.shields.io/badge/License-Educational-yellow)
+"Python" (https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
+"Platform" (https://img.shields.io/badge/Platform-Linux%20%7C%20Android%20%7C%20Windows-green?style=for-the-badge)
+"Status" (https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+"License" (https://img.shields.io/badge/License-Educational-yellow?style=for-the-badge)
 
----
+</div>---
 
 📌 About
 
-DroidRAT Framework is an educational Android security testing toolkit designed for cybersecurity learning, authorized penetration testing, and security research environments.
+DroidRAT Framework is an educational and security research project created for learning Android security concepts, framework development, and authorized cybersecurity testing environments.
 
-The project provides various utilities that help researchers understand Android application security, payload structures, testing workflows, and mobile security concepts.
+The project is intended for:
+
+- ✅ Security Researchers
+- ✅ Cybersecurity Students
+- ✅ Penetration Testers (with authorization)
+- ✅ Educational Labs
+- ✅ CTF & Learning Environments
 
 ---
 
 🚀 Features
 
-- 📱 Android Security Testing Utilities
-- 🔧 Modular Framework Architecture
-- 📦 APK Analysis & Research Support
-- 🐍 Python-Based Components
-- ⚙️ Configurable Settings
-- 📂 Module Management System
-- 🔍 Security Research Utilities
-- 🛠 Extensible Framework Design
+Core Components
+
+- 📱 Android Security Research Tools
+- ⚙️ Modular Framework Design
+- 🐍 Python-Based Architecture
+- 📂 Easy Module Management
+- 🔧 Custom Configuration Support
+- 📊 Logging & Monitoring
+- 🛠 Extensible Project Structure
+- 🔍 Educational Testing Environment
 
 ---
 
@@ -36,11 +45,11 @@ Clone Repository
 git clone https://github.com/nomi-cracker/DroidRAT.git
 cd DroidRAT
 
-Install Dependencies
+Install Requirements
 
 pip install -r requirements.txt
 
-Run Framework
+Run
 
 python3 droidrat.py
 
@@ -48,35 +57,11 @@ python3 droidrat.py
 
 📋 Requirements
 
-System Requirements
-
-Component| Minimum
+Component| Requirement
 Python| 3.8+
-RAM| 2 GB
-Storage| 500 MB
-OS| Linux / Android / Windows
-
-Python Packages
-
-requests
-colorama
-PyYAML
-rich
-psutil
-
-Install manually if needed:
-
-pip install -r requirements.txt
-
----
-
-📖 Usage
-
-Launch the framework:
-
-python3 droidrat.py
-
-Follow the on-screen menu to access available framework modules and testing utilities.
+RAM| 2GB+
+Storage| 500MB+
+Operating System| Linux / Android / Windows
 
 ---
 
@@ -89,23 +74,45 @@ DroidRAT/
 ├── README.md
 ├── modules/
 ├── config/
-└── assets/
+├── assets/
+└── logs/
+
+---
+
+👥 NOMI CYBER-X TEAM
+
+Official Community
+
+Join our official community for project updates, discussions, support, and announcements.
+
+WhatsApp Group:
+
+https://chat.whatsapp.com/Dv3fGKOzvuDI0hP4cqByEW?s=cl&p=a&mlu=3&amv=2
+
+Community Benefits
+
+- 🔥 Latest Updates
+- 💡 Project Discussions
+- 🛠 Community Support
+- 📢 Announcements
+- 🤝 Collaboration Opportunities
+- 📚 Learning Resources
 
 ---
 
 🛠 Troubleshooting
 
-Missing Module Error
+Install Missing Dependencies
 
 pip install -r requirements.txt
-
-Permission Denied
-
-chmod +x *.py
 
 Check Python Version
 
 python3 --version
+
+Fix Permission Issues
+
+chmod +x *.py
 
 ---
 
@@ -113,34 +120,33 @@ python3 --version
 
 This project is provided strictly for:
 
-- Educational purposes
-- Security research
-- Authorized penetration testing
-- Learning mobile security concepts
+- Educational Purposes
+- Security Research
+- Authorized Testing
+- Learning & Development
 
-Users are responsible for complying with all applicable laws and regulations. The authors assume no responsibility for misuse of this software.
-
----
-
-👨‍💻 Author
-
-NOMI CYBER-X TEAM
-
-GitHub Repository:
-
-https://github.com/nomi-cracker/DroidRAT
+Users are solely responsible for ensuring compliance with applicable laws and regulations. The authors and contributors are not responsible for misuse of this project.
 
 ---
 
-⭐ Support
+🌟 Support
 
 If you find this project useful:
 
-- Star the repository
-- Report bugs responsibly
-- Contribute improvements
-- Share feedback
+⭐ Star the repository
+
+🔄 Share with others
+
+💬 Join the community
+
+🛠 Contribute improvements
 
 ---
 
-© DroidRAT Framework — Educational & Research Use Only
+<div align="center">NOMI CYBER-X TEAM
+
+Building • Learning • Researching
+
+Educational & Research Use Only
+
+</div>
