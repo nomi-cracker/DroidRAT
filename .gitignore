@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+.env
+logs/
+builds/
+targets.json
+report_log.csv
+nomi_cyber_x.log
