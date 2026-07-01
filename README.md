@@ -31,7 +31,7 @@ The project is intended for:
 - ✅ CTF & Learning Environments
 
 ---
-
+<div align="center">
 ## 🚀 Features
 
 ### Core Components
@@ -54,6 +54,9 @@ git clone https://github.com/nomi-cracker/DroidRAT.git
 cd DroidRAT
 pip install -r requirements.txt
 python3 droidrat.py
+
+</div>
+
 📋 Requirements
 
 
@@ -115,7 +118,6 @@ If you find this project useful:
 📞 Contact
 NOMI CYBER-X TEAM
 
-WhatsApp Group: Join Now
 GitHub: https://github.com/nomi-cracker/DroidRAT
 NOMI CYBER-X TEAM
 Building • Learning • Researching
@@ -123,12 +125,13 @@ Building • Learning • Researching
 Educational & Research Use Only
 
 🔥 Join our WhatsApp Community 🔥
-
-WhatsApp:[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Dv3fGKOzvuDI0hP4cqByEW?s=cl&p=a&mlu=3&amv=2)
+<div align="center">
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Dv3fGKOzvuDI0hP4cqByEW?s=cl&p=a&mlu=3&amv=2)
 
 © 2024 NOMI CYBER-X TEAM. All Rights Reserved.
 
 ```
+</div>
 
 
 
