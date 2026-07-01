@@ -8,6 +8,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Android%20%7C%20Windows-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Educational-yellow?style=for-the-badge)
+🔥 Join our WhatsApp Community 🔥
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Dv3fGKOzvuDI0hP4cqByEW?s=cl&p=a&mlu=3&amv=2)
 
 ---
@@ -124,9 +125,7 @@ Building • Learning • Researching
 
 Educational & Research Use Only
 
-🔥 Join our WhatsApp Community 🔥
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Dv3fGKOzvuDI0hP4cqByEW?s=cl&p=a&mlu=3&amv=2)
 
 © 2024 NOMI CYBER-X TEAM. All Rights Reserved.
 
