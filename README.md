@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nomi-cracker/DroidRAT/main/IMG-20260629-WA0029_1.jpg" width="100%">
-
-# 🔥 DROIDRAT FRAMEWORK 🔥
-
-### Android Security Research & Educational Toolkit
-
-</div>
-
 ---
 
 ## 📸 Screenshots
