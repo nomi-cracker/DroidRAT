@@ -1,5 +1,31 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/nomi-cracker/DroidRAT/main/IMG-20260629-WA0029_1.jpg" width="100%">
+
+# 🔥 DROIDRAT FRAMEWORK 🔥
+
+### Android Security Research & Educational Toolkit
+
+</div>
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nomi-cracker/DroidRAT/main/IMG-20260629-WA0029_1.jpg" width="85%">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/nomi-cracker/DroidRAT/main/IMG-20260629-WA0030_1.jpg" width="85%">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/nomi-cracker/DroidRAT/main/IMG-20260629-WA0031_1.jpg" width="85%">
+
+</div>
+
 # 🔥 DROIDRAT FRAMEWORK 🔥
 
 ### Android Security Research & Educational Toolkit
