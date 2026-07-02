@@ -2,79 +2,85 @@
 
 # 🔥 DROIDRAT FRAMEWORK 🔥
 
-**Android Security Research & Educational Toolkit**
+### Android Security Research & Educational Toolkit
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Android+Security+Research;Educational+Cybersecurity+Project;Built+by+NOMI+CYBER-X+TEAM" />
+
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
-
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Android%20%7C%20Windows-green?style=for-the-badge)
-
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-
 ![License](https://img.shields.io/badge/License-Educational-yellow?style=for-the-badge)
 
-       Join our WhatsApp Community
+<br>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Dv3fGKOzvuDI0hP4cqByEW?s=cl&p=a&mlu=3&amv=2)
+## 👥 NOMI CYBER-X TEAM
 
----
+<a href="https://chat.whatsapp.com/Dv3fGKOzvuDI0hP4cqByEW?s=cl&p=a&mlu=3&amv=2">
+<img src="https://img.shields.io/badge/WhatsApp-Join%20Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
-**Developed by NOMI CYBER-X TEAM**
+<br><br>
+
+**Building • Learning • Researching**
 
 </div>
 
 ---
 
-## 📌 About
+# 📌 ABOUT
 
-DroidRAT Framework is an **educational and security research project** created for learning Android security concepts, framework development, and authorized cybersecurity testing environments.
+DroidRAT Framework is an educational and security research project designed for Android security learning, research environments, and authorized cybersecurity testing.
 
-The project is intended for:
+## 🎯 TARGET AUDIENCE
 
 - ✅ Security Researchers
 - ✅ Cybersecurity Students
-- ✅ Penetration Testers (with authorization)
 - ✅ Educational Labs
-- ✅ CTF & Learning Environments
+- ✅ CTF Participants
+- ✅ Learning Environments
 
 ---
 
-## 🚀 Features
-
-### Core Components
+# 🚀 FEATURES
 
 - 📱 Android Security Research Tools
-- ⚙️ Modular Framework Design
-- 🐍 Python-Based Architecture
+- ⚙️ Modular Framework Architecture
+- 🐍 Python-Based Development
 - 📂 Easy Module Management
-- 🔧 Custom Configuration Support
+- 🔧 Flexible Configuration
 - 📊 Logging & Monitoring
 - 🛠 Extensible Project Structure
 - 🔍 Educational Testing Environment
 
 ---
 
-## 📥 Installation
+# 📥 INSTALLATION
 
 ```bash
 git clone https://github.com/nomi-cracker/DroidRAT.git
 cd DroidRAT
 pip install -r requirements.txt
 python3 droidrat.py
+```
 
+---
 
+# 📋 REQUIREMENTS
 
-📋 Requirements
+| Component | Requirement |
+|------------|------------|
+| Python | 3.8+ |
+| RAM | 2GB+ |
+| Storage | 500MB+ |
+| Platform | Linux / Android / Windows |
 
+---
 
-Component	Requirement
-Python	3.8+
-RAM	2GB+
-Storage	500MB+
-Operating System	Linux / Android / Windows
-📂 Project Structure
+# 📂 PROJECT STRUCTURE
 
-
-
+```text
 DroidRAT/
 ├── droidrat.py
 ├── requirements.txt
@@ -84,57 +90,94 @@ DroidRAT/
 ├── config/
 ├── assets/
 └── logs/
-👥 NOMI CYBER-X TEAM
-Official Community
-Join our official community for project updates, discussions, support, and announcements.
-
-WhatsApp Group: https://chat.whatsapp.com/Dv3fGKOzvuDI0hP4cqByEW
-
-Community Benefits
-🔥 Latest Updates
-💡 Project Discussions
-🛠 Community Support
-📢 Announcements
-🤝 Collaboration Opportunities
-📚 Learning Resources
-🛠 Troubleshooting
-bash
-
-
-
-pip install -r requirements.txt
-python3 --version
-chmod +x *.py
-⚠️ Disclaimer
-This project is provided strictly for:
-
-Educational Purposes
-Security Research
-Authorized Testing
-Learning & Development
-Users are solely responsible for ensuring compliance with applicable laws and regulations. The authors and contributors are not responsible for misuse of this project.
-
-🌟 Support
-If you find this project useful:
-
-⭐ Star the repository
-🔄 Share with others
-💬 Join the community
-🛠 Contribute improvements
-📞 Contact
-NOMI CYBER-X TEAM
-
-GitHub: https://github.com/nomi-cracker/DroidRAT
-NOMI CYBER-X TEAM
-Building • Learning • Researching
-
-Educational & Research Use Only
-
-
-
-© 2024 NOMI CYBER-X TEAM. All Rights Reserved.
-
 ```
 
+---
 
+# 👥 JOIN NOMI CYBER-X TEAM
 
+### Official WhatsApp Community
+
+🔗 https://chat.whatsapp.com/Dv3fGKOzvuDI0hP4cqByEW?s=cl&p=a&mlu=3&amv=2
+
+### Community Benefits
+
+- 🔥 Latest Updates
+- 💡 Project Discussions
+- 🛠 Community Support
+- 📢 Announcements
+- 🤝 Collaboration Opportunities
+- 📚 Learning Resources
+
+---
+
+# 🛠 TROUBLESHOOTING
+
+### Install Missing Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Check Python Version
+
+```bash
+python3 --version
+```
+
+### Fix Permission Issues
+
+```bash
+chmod +x *.py
+```
+
+---
+
+# ⚠️ DISCLAIMER
+
+This project is provided strictly for:
+
+- Educational Purposes
+- Security Research
+- Learning & Development
+- Authorized Testing Activities
+
+Users are responsible for complying with all applicable laws and regulations. The authors and contributors are not responsible for misuse of this project.
+
+---
+
+# 🌟 SUPPORT
+
+⭐ Star the Repository
+
+🔄 Share the Project
+
+💬 Join the Community
+
+🛠 Contribute Improvements
+
+---
+
+# 📞 CONTACT
+
+**NOMI CYBER-X TEAM**
+
+WhatsApp Community:
+https://chat.whatsapp.com/Dv3fGKOzvuDI0hP4cqByEW?s=cl&p=a&mlu=3&amv=2
+
+GitHub Repository:
+https://github.com/nomi-cracker/DroidRAT
+
+---
+
+<div align="center">
+
+## NOMI CYBER-X TEAM
+
+### Educational & Research Use Only
+
+Building • Learning • Researching
+
+© 2026 NOMI CYBER-X TEAM
+
+</div>
