@@ -187,6 +187,26 @@ GitHub Repository:
 https://github.com/nomi-cracker/DroidRAT
 
 ---
+## ❤️ Support
+
+| GitHub | WhatsApp Group | Facebook Group |
+|:-------:|:--------------:|:--------------:|
+| <a href="https://github.com/nomi-cracker"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100"></a> | <a href="https://chat.whatsapp.com/Dv3fGKOzvuDI0hP4cqByEW"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="100"></a> | <a href="https://www.facebook.com/share/g/18oHNQFfDW/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="100"></a> |
+| **GitHub** | **WhatsApp** | **Facebook Group** |
+
+---
+
+## 🍾 Buy me a Cold Drink 🍷
+
+<p align="center">
+<b>SadaPay IBAN</b><br><br>
+
+`PK90SADA0000003409404843`
+
+</p>
+
+> ❤️ Thank you for supporting my work.
+
 
 <div align="center">
 
